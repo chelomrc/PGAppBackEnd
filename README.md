@@ -6,7 +6,6 @@ This an application import data from a csv file, store the data in the mongoDB d
 ```
 $ git clone https://github.com/chelomrc/PGAppBackEnd.git
 $ cd PGAppBackEnd
-$ npm npm run import
 $ npm install
 $ npm start
 ```
@@ -15,7 +14,7 @@ $ npm start
 
 For import the data you need to type this command before run the app:
 ```
-$ npm npm run import
+$ npm run import
 ```
 # Technologies
 NodeJS
